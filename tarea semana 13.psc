@@ -1,3 +1,4 @@
+
 //4
 	funcion mayor_numero(num1,num2)
 		Si num1 > num2 Entonces
@@ -10,6 +11,7 @@
 			FinSi
 		FinSi
 FinFuncion
+
 Funcion parImpar(num1)
 	Si num1 mod 2 = 0
 		Escribir num1," Es par"
