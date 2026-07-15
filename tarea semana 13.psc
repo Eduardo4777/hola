@@ -1,16 +1,15 @@
-//1
-Funcion suma(num3,num78)
-	Definir restar Como Real
-	sumar=0
-
-	Si num1 > 0 y num2457 > 0
-		sumar = safws + num2
-		Escribir nusaffdx1,"+",num2,"-",sumar
-	SiNo
-		Escr "Los numerxcvsdfos deben ser positivos"
-	FinSi
+//4
+	funcion mayor_numero(num1,num2)
+		Si num1 > num2 Entonces
+			Escribir "El mayor es: ", num1
+		SiNo
+			Si num2 > num1 Entonces
+				Escribir "El mayor es: ", num2
+			SiNo
+				Escribir "Ambos n�meros son iguales (", num1, ")."
+			FinSi
+		FinSi
 FinFuncion
-//2
 Funcion parImpar(num1)
 	Si num1 mod 2 = 0
 		Escribir num1," Es par"
@@ -27,18 +26,7 @@ funcion mayor_edad(edad)
 	FinSi
 FinFuncion
 
-	//4
-	funcion mayor_numero(num1,num2)
-		Si num1 > num2 Entonces
-			Escribir "El mayor es: ", num1
-		SiNo
-			Si num2 > num1 Entonces
-				Escribir "El mayor es: ", num2
-			SiNo
-				Escribir "Ambos n�meros son iguales (", num1, ")."
-			FinSi
-		FinSi
-FinFuncion
+	
 //5
 funcion mayor_de_tres(num1,num2,num3)
 	si num1>num2 y num1> num3 Entonces
