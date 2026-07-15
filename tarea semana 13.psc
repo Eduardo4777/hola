@@ -2,11 +2,11 @@
 Funcion suma(num3,num5)
 	Definir restar Como Real
 	sumar=0
-	Si num1 > 0 y num25 > 0
-		sumar = num1 + num2
-		Escribir num1,"+",num2,"-",sumar
+	safsdfa
+		holaaaa
+		Escribir 
 	SiNo
-		Escr "Los numeros deben ser positivos"
+		Escribr
 	FinSi
 FinFuncion
 //2
