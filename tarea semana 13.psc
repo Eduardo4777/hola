@@ -1,15 +1,4 @@
-//1
-Funcion suma(num3,num78)
-	Definir restar Como Real
-	sumar=0
 
-	Si num1 > 0 y num2457 > 0
-		sumar = safws + num2
-		Escribir nusaffdx1,"+",num2,"-",sumar
-	SiNo
-		Escr "Los numerxcvsdfos deben ser positivos"
-	FinSi
-FinFuncion
 //2
 Funcion parImpar(num1)
 	Si num1 mod 2 = 0
